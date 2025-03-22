@@ -1,6 +1,6 @@
 # easy_home
 
-A new Flutter project.
+This is meant to be a small smartphone app for organizing household work.
 
 ## Getting Started
 
